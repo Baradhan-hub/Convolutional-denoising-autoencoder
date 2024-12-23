@@ -19,6 +19,7 @@ utoencoder is an unsupervised artificial neural network that is trained to copy 
 5. Pass test data for validating manually.
 6. Plot the predictions for visualization.
 ## PROGRAM:
+NAME : Baradhan.L Reg no: 212224040045
 ```python
 from tensorflow import keras
 from tensorflow.keras import layers
